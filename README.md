@@ -43,6 +43,7 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+[EDMEXP8DRAW.pdf](https://github.com/user-attachments/files/32392654/EDMEXP8DRAW.pdf)
 
 ## RESULT:
 Thus, the cut section for solid model is created.
